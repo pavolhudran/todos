@@ -1,14 +1,14 @@
-[
+{
   {
     "id": "1",
-    "title": "Go shopping",
+    "title": "Go shopping"
   },
   {
     "id": "2",
-    "title": "Job interview",
+    "title": "Job interview"
   },
   {
     "id": "3",
-    "title": "Prepare homework",
+    "title": "Prepare homework"
   }
-]
+}
